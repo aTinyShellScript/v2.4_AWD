@@ -1,5 +1,5 @@
 # v2.4 AWD
-An AWD mod for a Voron v2.4 using NEMA14s
+An AWD mod for a Voron v2.4 using NEMA14s.
 
 ![Gantry](/Images/Gantry.png)
 
@@ -7,9 +7,9 @@ An AWD mod for a Voron v2.4 using NEMA14s
 
 ## Parts
 
-### Metal Parts
-
 ![Metal Bits](/Images/SCScart.png)
+
+### Metal Parts
 
 - The front and rear plates are designed to be cut out of 0.125"(3.2mm) 5052 Aluminum.
 - The tensioner plates are designed to be cut out of 0.100"(2.54mm) 5052 Aluminum
@@ -20,8 +20,6 @@ An AWD mod for a Voron v2.4 using NEMA14s
 - Rear tensioner will need support, so support it.
 
 ### BOM
-
-Non-Exhaustive List. I'm lazy.
 
 - Rear Drives:
     - x4 m3x20 standoff with 5mm OD
