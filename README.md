@@ -1,6 +1,8 @@
 # v2.4 AWD
 An AWD mod for a Voron v2.4 using NEMA14s.
 
+NEMA17 version added BUT NOT YET TESTED.
+
 ![Gantry](/Images/Gantry.png)
 
 ![Belted Up](/Images/Belted_v1.jpg)
