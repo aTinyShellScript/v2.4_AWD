@@ -9,13 +9,14 @@ NEMA14/NEMA17 STLs have been added but not thouroughly tested. Please report any
 
 If you have any questions, you can find me on Discord: aTinyShellScript#2600
 
-{% include youtube.html id="Lp676hJnY2M" %}
+## Video of AWD in Action:
+[![Video of AWD in Action](https://img.youtube.com/vi/Lp676hJnY2M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Lp676hJnY2M)
+
+## Parts
 
 ![Gantry](/Images/Gantry.png)
 
 ![Belted Up](/Images/Belted_v1.jpg)
-
-## Parts
 
 ![Metal Bits](/Images/SCScart.png)
 
