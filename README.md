@@ -3,7 +3,7 @@ An AWD mod for a Voron v2.4 intially developed for using NEMA14s. ONLY the NEMA1
 
 NEMA17 dxfs for laser cut parts have been added but not tested. Please report any issues.
 
-Printable versions for both NEMA14 and NEMA17 have been added but not thouroughly tested. There are no printed tensioner plates yet.
+Printable versions for both NEMA14 and NEMA17 have been added but not thouroughly tested. Please report any issues.
 
 # Contact
 
