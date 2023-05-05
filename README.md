@@ -9,6 +9,11 @@ NEMA14/NEMA17 STLs have been added but not thouroughly tested. Please report any
 
 If you have any questions, you can find me on Discord: aTinyShellScript#2600
 
+[![Video of AWD in Action]
+(https://img.youtube.com/vi/Lp676hJnY2M/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=Lp676hJnY2M)
+
+
 ![Gantry](/Images/Gantry.png)
 
 ![Belted Up](/Images/Belted_v1.jpg)
