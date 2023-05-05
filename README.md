@@ -1,7 +1,13 @@
 # v2.4 AWD
-An AWD mod for a Voron v2.4 using NEMA14s.
+An AWD mod for a Voron v2.4 intially developed for using NEMA14s. ONLY the NEMA14 laser cut parts have been tested on a live printer so far.
 
-NEMA17 version added BUT NOT YET TESTED.
+NEMA17 dxfs for laser cut parts have been added but not tested. Please report any issues.
+
+NEMA14/NEMA17 STLs have been added but not thouroughly tested. Please report any issues.
+
+# Contact
+
+If you have any questions, you can find me on Discord: aTinyShellScript#2600
 
 ![Gantry](/Images/Gantry.png)
 
