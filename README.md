@@ -4,7 +4,7 @@ An AWD Mod for the Voron v2.4.
 
 ## Getting Started
 
-Take a look at the [Sourcing](https://awd.docs.atinyshellscript.com/sourcing/) page to see what you need.
+Take a look at the [Sourcing](https://docs.atinyshellscript.com/sourcing/) page to see what you need.
 
 ## Issues
 
@@ -16,4 +16,4 @@ Put your mod in it's own folder under /Mods, include a readme.md, and submit a P
 
 ## Website
 
-Documentation and Assembly Info has been moved to: https://awd.docs.atinyshellscript.com/
+Documentation and Assembly Info has been moved to: https://docs.atinyshellscript.com/
