@@ -1,15 +1,13 @@
-## Not fully tested yet. Will be updated when tested. (Y limit switch is missing)
-
 # AWD 9mm Nema 17 Voron 2.4 Mod
-I heard you like mods. So I made a mod of [Printy's 9mm mod](https://github.com/aTinyShellScript/v2.4_AWD/tree/printy_9mm_mod/Mods/NEMA17_9mm_Belts) of [ATSS's AWD V2.4 mod](https://github.com/aTinyShellScript/v2.4_AWD).
+I heard you like mods. So I made a mod of [Chairman Meow's 9mm mod](https://github.com/aTinyShellScript/v2.4_AWD/tree/printy_9mm_mod/Mods/NEMA17_9mm_Belts) of [ATSS's AWD V2.4 mod](https://github.com/aTinyShellScript/v2.4_AWD).
 
-## Picture:
+## Picture
 
 ![AWD 9mm Nema 17 Voron 2.4 Mod on my V2.4](.)
 
-## YT Video: (Placeholder)
+## YT Video
 
-[![KUSBA PRO Assembly](https://img.youtube.com/vi/K55Uk8NYE5w/0.jpg)](.)
+[![AWD 9mm Nema 17 Voron 2.4 Mod](https://img.youtube.com/vi/yxPKsFqpcdE/0.jpg)](https://www.youtube.com/watch?v=yxPKsFqpcdE)
 
 ## BOM
 
@@ -32,6 +30,9 @@ I heard you like mods. So I made a mod of [Printy's 9mm mod](https://github.com/
 |M3x45mm Screws     |16 |[Aliexpress](https://s.click.aliexpress.com/e/_DBwrZQ9)|[Amazon](https://amzn.to/3IjOWcs)|
 
 I used these XY joints from Funssor (includes ZZ bearings): [Aliexpress](https://s.click.aliexpress.com/e/_DDTiurF)
-You can print the plastic parts in ABS on your FDM printer. I didn't have a working printer at the time, so I ordered them in MJF from [JawsTec](https://www.jawstec.com/3d-printing-service/?aff=6).
+
+You can print the plastic parts in ABS on your FDM printer. I didn't have a working printer at the time, so I ordered them printed in MJF from [JawsTec](https://www.jawstec.com/3d-printing-service/?aff=6).
+
+Like ATSS's mod, does not include mounts for drag chains or Y limit switches.
 
 Aliexpress, Jawstec Affiliate and Amazon Associate links above. I earn a commission on qualifying purchases at no extra cost to you.
