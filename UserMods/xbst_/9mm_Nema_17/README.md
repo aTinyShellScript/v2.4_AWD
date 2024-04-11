@@ -3,7 +3,7 @@ I heard you like mods. So I made a mod of [Chairman Meow's 9mm mod](https://gith
 
 ## Picture
 
-![AWD 9mm Nema 17 Voron 2.4 Mod on my V2.4](.)
+![AWD 9mm Nema 17 Voron 2.4 Mod on my V2.4](./Images/9mm.jpg)
 
 ## YT Video
 
